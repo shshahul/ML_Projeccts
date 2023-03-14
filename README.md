@@ -1,3 +1,29 @@
+# Major Project_2
+
+**Customer Conversion Prediction**
+
+You are working for a new-age insurance company and employ mutiple outreach plans to sell term insurance to your customers. Telephonic marketing campaigns still remain one of the most effective way to reach out to people however they incur a lot of cost. Hence, it is important to identify the customers that are most likely to convert beforehand so that they can be specifically targeted via call. We are given the historical marketing data of the insurance company and are required to build a ML model that will predict if a client will subscribe to the insurance.
+
+
+>>EDA
+
+![Screenshot 2023-03-14 172102](https://user-images.githubusercontent.com/103018333/224993559-9703d1fd-80bb-4e2c-9c0c-8bb529980b2e.png)
+
+
+![Screenshot 2023-03-14 172235](https://user-images.githubusercontent.com/103018333/224993606-0dbb9f04-27ac-4af6-89c4-d95e475ab5e1.png)
+
+![Screenshot 2023-03-14 172211](https://user-images.githubusercontent.com/103018333/224993582-0331176d-1dd5-4a97-a758-71207aeddffd.png)
+
+![Screenshot 2023-03-14 172307](https://user-images.githubusercontent.com/103018333/224993664-b1f7701c-4f4c-4530-84a5-5df2e7ea98c3.png)
+
+
+![Screenshot 2023-03-14 172404](https://user-images.githubusercontent.com/103018333/224993884-c882a53d-e3d7-4622-ab8b-83598ec9d1d1.png)
+
+![Screenshot 2023-03-14 172336](https://user-images.githubusercontent.com/103018333/224993849-668bf6d1-1904-4351-8a66-42edcb1fdb66.png)
+
+
+
+
 # MajorProject_1_DemandForecast
 **Item Demand Forecasting**
 
