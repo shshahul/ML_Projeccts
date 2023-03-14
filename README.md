@@ -1,4 +1,4 @@
-# Major Project_2
+# Major Project
 
 **Customer Conversion Prediction**
 
